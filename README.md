@@ -27,7 +27,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Author
 
-Maintained by [phoenixmariepornstaractress](https://github.com/rezatutor475).
+Maintained by [Reza Torabi](https://github.com/rezatutor475).
 
 Contributor [phoenixmariepornstaractress](https://github.com/phoenixmariepornstaractress). 
  
